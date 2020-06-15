@@ -1,0 +1,16 @@
+{
+    "name": "twidemo",
+    "version": "0.0.1",
+    "author": "Ashwin Subandh",
+    "description": "Twilio Voice Application Demonstration",
+    "main": "app.js",
+    "keywords": [],
+    "scripts": {
+        "test": "echo \"Error: No tests specified\" && exit 1"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.17.1",
+        "twilio": "^3.46.0"
+    }
+}
