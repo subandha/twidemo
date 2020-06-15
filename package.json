@@ -6,7 +6,8 @@
     "main": "app.js",
     "keywords": [],
     "scripts": {
-        "test": "echo \"Error: No tests specified\" && exit 1"
+        "test": "echo \"Error: No tests specified\" && exit 1",
+        "start": "node app.js"
     },
     "license": "MIT",
     "dependencies": {
